@@ -1,0 +1,22 @@
+{
+  "container": {
+    "width": "500",
+    "height": "300",
+    "left": 100,
+    "top": 100
+  },
+  "blocks": [
+    {
+      "left": 100,
+      "top": 100,
+      "zindex": 1,
+      "type": "label"
+    },
+    {
+      "left": 100,
+      "top": 100,
+      "zindex": 1,
+      "type": "input"
+    }
+  ]
+}

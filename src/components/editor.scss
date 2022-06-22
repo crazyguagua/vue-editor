@@ -1,0 +1,30 @@
+.editor{
+  display: flex;
+  justify-content: space-between;
+  .left-material{
+    width: 300px;
+    background: #fcfafa;
+    height: 100vh;
+    padding:10px;
+    .component-item{
+      padding:10px;
+      border:1px solid #ccc;
+      border-radius: 3px;
+      user-select: none;
+      cursor: move;
+      margin-bottom: 15px;
+    }
+  }
+  .center-area{
+    flex:1;
+    background: yellow;
+    height:100vh;
+    overflow-y: auto;
+    overflow-x:auto;
+  }
+  .attribute-area{
+    width: 300px;
+    background: blanchedalmond;
+    height: 100vh;
+  }
+}

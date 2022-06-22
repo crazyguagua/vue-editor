@@ -1,2 +1,1 @@
-# vue-editor
-Created with CodeSandbox
+### editor
